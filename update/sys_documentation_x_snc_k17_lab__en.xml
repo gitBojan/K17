@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-09-07 23:49:05</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>65e77f3dfd4503007f444eba2027e414</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Lab</sys_name>
